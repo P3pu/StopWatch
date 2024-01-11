@@ -1,0 +1,14 @@
+:root {
+  --background: #fff;
+  --colorBtn: #04be04;
+  --black: #000;
+  --backgroundBtn: #444;
+  --white: #fff;
+}
+
+.btn-dark:root {
+  --background: #222;
+  --colorBtn: #04be04;
+  --black: #fff;
+  --backgroundBtn: #fff;
+}
